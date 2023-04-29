@@ -1,10 +1,5 @@
 ==== LIGA INGGRIS=======
 
-
-#EXTINF:-1 tvg-id=" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTekKNVlP9EEdqoqi-ShKRkgItJGPcuLwTrUw&usqp=CAU" group-title="#1. LIVE EVENT",1. [23.45] -  BARCELONA VS CHELSEA  (CH 1) - UEFA Champions League Woman
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://webudit.salamus1.lol/lb/premium427/index.m3u8?|referer=https://widevine.licenses4.me/
-
 #EXTINF:-1 tvg-id=" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTekKNVlP9EEdqoqi-ShKRkgItJGPcuLwTrUw&usqp=CAU" group-title="#1. LIVE EVENT",1. [23.45] -  BARCELONA VS CHELSEA  (CH 2) - UEFA Champions League Woman
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
